@@ -6,4 +6,4 @@ setup(name='Widgets Demo',
       version='1.0',
       description='Demo of pywidgets',
       author='Mike Wright',
-      author_email='mkwright@gmail.com')
+      author_email='mkwright@gmail.com'))
